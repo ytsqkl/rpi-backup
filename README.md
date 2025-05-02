@@ -24,7 +24,7 @@
    
 ## 三、resize.sh（扩容脚本，需要root权限） 
 
-   用法：恢复系统后执行 sudo bash resize.sh 扩容root分区，也可以用树莓派raspi-config进行扩容
+   用法：img镜像写入工具恢复系统后执行 sudo bash resize.sh 扩容root分区，也可以用树莓派raspi-config进行扩容
    
 ## 四、参考资料  
    1. https://blog.csdn.net/lzjsqn/article/details/72058293  
